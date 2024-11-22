@@ -1,0 +1,23 @@
+{
+    "cSpell.words": [
+        "Bezier",
+        "cupertino",
+        "firebaseapp",
+        "firebasestorage",
+        "firestore",
+        "flutterfire",
+        "foodology",
+        "localevents",
+        "Meda",
+        "mobilesdk",
+        "piassa",
+        "Reclip",
+        "Schyler",
+        "scoup",
+        "styleguide",
+        "trianer",
+        "vsync"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
