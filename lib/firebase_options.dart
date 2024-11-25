@@ -42,17 +42,17 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyCE70TBmPvJO30Rkp3RQC8nZCKzpywUnzU',
-    appId: '1:802595696845:web:28e9855e2169e1b38af984',
+    appId: '1:802595696845:web:8455d76f58e81fb18af984',
     messagingSenderId: '802595696845',
     projectId: 'localevents-53e86',
     authDomain: 'localevents-53e86.firebaseapp.com',
     storageBucket: 'localevents-53e86.firebasestorage.app',
-    measurementId: 'G-BY0EJBD7QM',
+    measurementId: 'G-MFDZDFS3HC',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyD6uhROT-qesoJrdFmbnNs6PABo6K88Hdk',
-    appId: '1:802595696845:android:2c16b7f587536b868af984',
+    appId: '1:802595696845:android:0981d81d00b7c3528af984',
     messagingSenderId: '802595696845',
     projectId: 'localevents-53e86',
     storageBucket: 'localevents-53e86.firebasestorage.app',
@@ -60,29 +60,32 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyAK1zfhknD5IzLEUJA28HEk75kzIbrXxsA',
-    appId: '1:802595696845:ios:be5a62d4fed3f61d8af984',
+    appId: '1:802595696845:ios:987fff09b88452508af984',
     messagingSenderId: '802595696845',
     projectId: 'localevents-53e86',
     storageBucket: 'localevents-53e86.firebasestorage.app',
+    iosClientId: '802595696845-j752o0llc857ebkf2qlv535gu2d2o5ur.apps.googleusercontent.com',
     iosBundleId: 'com.example.localEvents',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyAK1zfhknD5IzLEUJA28HEk75kzIbrXxsA',
-    appId: '1:802595696845:ios:be5a62d4fed3f61d8af984',
+    appId: '1:802595696845:ios:987fff09b88452508af984',
     messagingSenderId: '802595696845',
     projectId: 'localevents-53e86',
     storageBucket: 'localevents-53e86.firebasestorage.app',
+    iosClientId: '802595696845-j752o0llc857ebkf2qlv535gu2d2o5ur.apps.googleusercontent.com',
     iosBundleId: 'com.example.localEvents',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyCE70TBmPvJO30Rkp3RQC8nZCKzpywUnzU',
-    appId: '1:802595696845:web:95ef8f4023e6fec78af984',
+    appId: '1:802595696845:web:2cef9387e8c183808af984',
     messagingSenderId: '802595696845',
     projectId: 'localevents-53e86',
     authDomain: 'localevents-53e86.firebaseapp.com',
     storageBucket: 'localevents-53e86.firebasestorage.app',
-    measurementId: 'G-JY8C7LXCLF',
+    measurementId: 'G-1T5H3B5Z85',
   );
+
 }
